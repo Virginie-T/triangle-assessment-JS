@@ -1,0 +1,67 @@
+
+
+#result {
+    display: none;
+}
+
+h1 {
+	margin-left: 15px;
+	margin-bottom: 35px;
+	color: white;
+
+}
+
+h3 {
+	color: white;	
+}
+
+.form-group {
+	float: left;
+	margin-left: 100px;
+	margin-top: 25px;
+	color: white;
+
+}
+
+label {
+	color: white;
+}
+
+p {
+		color: white;
+
+}
+
+input {
+	color: #5CB85C;
+}
+
+button {
+	outline: none;
+	height: 80px;
+	margin-top: 25px;
+	margin-left: -75px;
+}
+
+.glyphicon {
+	color: white;
+}
+
+.triangle {
+	fill: #5CB85C;
+	stroke: white;
+	stroke-width: 4;
+}
+
+#inside {
+	position: absolute;
+	text-align: center;    
+	top: 60px;
+	left: 200px;
+    z-index: 1;
+}
+
+.glyphicon-triangle-bottom:before {
+	margin-left: -10px;
+}
+
